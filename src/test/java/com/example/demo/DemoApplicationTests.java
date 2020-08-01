@@ -11,5 +11,9 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("aaa");
     }
+    @Test
+    void myHello(){
+        System.out.println("bbb");
+    }
 
 }
